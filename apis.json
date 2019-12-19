@@ -1,0 +1,43 @@
+{
+    "name": "PushBug",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1270-pushbug.jpg",
+    "tags": [
+        "devices",
+        "have api",
+        "notifications",
+        "telecommunications",
+        "verification"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/pushbug\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "PushBug",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1270-pushbug.jpg",
+            "humanURL": "https:\/\/pushbug.com\/learn-to-use-the-pushbug-notification-api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pushbug-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/pushbug.com\/learn-to-use-the-pushbug-notification-api"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Pushbug"
+        }
+    ]
+}
